@@ -37,5 +37,3 @@ Este proyecto utiliza las siguientes librerías:
    ```
 4. Abre el notebook y ejecuta las celdas secuencialmente.
 
-## Autor
-Este proyecto fue creado por María José.
